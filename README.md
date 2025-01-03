@@ -1,4 +1,4 @@
-# Ansible Vector Role
+# Ansible Role: Установка и настройка Vector
 
 ## Описание
 
